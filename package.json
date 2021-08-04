@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_hello",
+  "version": "1.0.0",
+  "description": "Teste de APP NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitcloud.prevnet/paulo.freire/nodejs_hello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
