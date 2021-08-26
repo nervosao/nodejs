@@ -1,3 +1,4 @@
+console.log(` porta ${process.env.PORT}`)
 
 const express = require('express')
 const app = express()
